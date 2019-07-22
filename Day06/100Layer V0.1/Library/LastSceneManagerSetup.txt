@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/shayuan/Desktop/\u5BD2\u5047\u751F\u6D3B\u4E4B\u7F16\u5199\u6E38\u620F/Day07/Bricks
+    V0.1/Assets/Scenes/Bricks.unity"
+  isLoaded: 1
+  isActive: 1
